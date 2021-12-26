@@ -1,4 +1,4 @@
-# Attendance Management System
+# Attendance Tracker & Management System
 Technologies used:  HTML5, CSS3, PHP and MySQL.
 
 ## Project Description
